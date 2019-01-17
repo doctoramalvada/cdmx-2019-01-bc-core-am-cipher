@@ -14,4 +14,14 @@ por su id y la variable que enlace el cipher  y llamo al html*/
     
       }); 
 
+     // -------------descifrado
+     const buttondesc = document.getElementById("botondescifrar");
+
+//llame a reconocerel boton y al resultado que se obtendra
       
+
+buttondesc.addEventListener("click",()=>{
+      let textdes= document.getElementById("textoadescifrar");
+      //let num=document.getElementById("numero");
+      let enlace= window.cipher.dencode(num,textdes);
+llamado.innerHTML= enlace;
