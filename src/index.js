@@ -4,23 +4,19 @@ const llamado = document.getElementById("resultado");
       
 
 button.addEventListener("click",()=>{
-      let text= document.getElementById("texto");
+      let texto= document.getElementById("texto");
       let num=document.getElementById("numero");
-      let enlace= window.cipher.encode(num,text);
+      let enlace= window.cipher.encode(num,texto);
 llamado.innerHTML= enlace;
 /*llamo a la accion del boton y defino la variables del texto, el numero 
 por su id y la variable que enlace el cipher  y llamo al html*/
-    
-    
-      }); 
+    }); 
 
-     /* -------------descifrado
-     const buttondesc = document.getElementById("botondescifrar");
-
-//llame a reconocerel boton y al resultado que se obtendra
-      
-
-buttondesc.addEventListener("click",()=>{
-      let textdes= document.getElementById("textoadescifrar");
-      //let num=document.getElementById("numero");
-      let enlace= window.cipher.dencode(num,textdes)*/
+    const buttonde = document.getElementById("botonde");
+    const llamadode = document.getElementById("descifrado");
+buttonde.addEventListener("click",()=>{   
+    let textde= document.getElementById("textode");
+    let numde=document.getElementById("numero");
+    let enlacede= window.cipher.decode(numde,textde)
+llamadode.innerHTML= enlacede; 
+});
