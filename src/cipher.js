@@ -20,11 +20,5 @@ window.cipher = {
     }
     /*el charcodeat me da el valor numerico  de la letra ingresadapongo la funcion para que convierta las letras en ascci */
  return textNuevo
-  },
-  
-  decode:()=>{
-
   }
-
-};
-
+}
