@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+*{
+  padding: 0;
+  margin : 0;
+  box-sizing: border-box;
+
+}
+body{
+   background-position: center;
+   background-size: cover;
+
+   height: 100vh;
+   background-image: url("http://i68.tinypic.com/2zyfq7r.jpg");
+}
+
+#subtitle{
+  font-family: 'Anton';
+  letter-spacing: 0.1em;
+  font-size:25px;
+  color: white;
+  align: left;
+  width: 1200px;
+  margin:20px;
+  text-align: 90px;
+  }
+#subtitletwo{
+  font-family: 'Anton';
+  letter-spacing: 0.1em;
+  font-size:15px;
+  color: white;
+  align: left;
+  width: 1200px;
+  margin:20px;
+  text-align: 90px;
+  text-align: right;
+  top:30px;
+  left:190px;
+  }
+
+   
+#encabezado{
+  width: 100%;/*da ancho*/
+  margin:0 auto;/*centra contenido*/
+  font-size:25px;
+  text-align: center;
+  color: white;
+  font-family:'Anton';
+}
+#resultado{
+      color: white; 
+  font-family:'Anton';
+  font-size:25px;}
+#descifrado{
+      color: white; 
+      font-family: Josefin+Sans;
+      font-size:25px;
+}
+.boton {
+  background: transparent;
+  width: 90px;
+  height: 40px;
+  border-radius: 10%;
+  border: 20%;
+  text-align: center;
+  margin: 30px;
+  color: white; 
+  font-family: Josefin+Sans;
+  font-size:15px;
+}
+.boton:hover{
+background-color: pink;
+}
+#primercuadro{
+  position: relative; 
+  width:905px;
+  height: 45px;
+  margin:20px;
+  text-align: right;
+  top:30px;
+  left:190px;
+  }
+
+#segundocuadro{
+  position: relative; 
+  width:905px;
+  height: 45px;
+  margin:20px;
+  text-align: right;
+  top:150px;
+  left:190px;
+  }
+#tercercuadro{
+  position: relative; 
+  width:905px;
+  height: 45px;
+  margin:20px;
+  text-align: right;
+  top:200px;
+  left:200px;
+  }
