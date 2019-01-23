@@ -1,3 +1,8 @@
+Para este producto, el usuario principal y contexto  son mujeres en posible situación de violencia intrafamiliar.
+
+El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a esta inseguridad en la incomunicación; Brindando una alternativa para poder cifrar y descifrar texto , por ejemplo para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
+
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
