@@ -10,10 +10,10 @@ window.cipher = {
    let textNuevo= "";
 /*aqui saldra el texto cifrado */
    for(let i=0; i<mayusculas.length; i++){
-     let letraAscii= mayusculas.charCodeAt(i);
-     let conversion=(letraAscii-65+parseInt(offset))%26+65;
+     let letraAscii= mayusculas.charCodeAt(i);/*vuelve a unicode */
+     let conversion=(letraAscii-65+parseInt(offset))%26+65;/*devuelve un valor numerico */
      
-let obtenido=String.fromCharCode(conversion);
+let obtenido=String.fromCharCode(conversion);/*devuelve una cadena del unicode */
      
      textNuevo += obtenido;
     }
