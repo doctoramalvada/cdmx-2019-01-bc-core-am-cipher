@@ -18,33 +18,33 @@ El diseño en un principio se pensó como una pagina disfrazada de otra pagina l
 
 Finalmente se concluyo presentar una pagina sencilla con instrucciones ,sugerencia de uso y los recuadros para el uso del cifrado.
 
-##Comenzando
+## Comenzando
 
 Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de visual code y el repositorio original se obtuvo de git hub. A continuación las especificaciones técnicas:
 
-##Pre-requisitos
+## Pre-requisitos
 
 Para poder descargar y usar este repositorio se necesita tener:
 -un editor de texto.
 -una shell para interpretar líneas de comando 
 -git
 
-##Instalación:
+## Instalación:
 
 Para poder usar el repositorio necesitas forquearlo (dando click donde dice fork) y despues clonarlo en la consola
 
-##Ejecutando las pruebas
+## Ejecutando las pruebas
 
 para poder ejecutar las pruebas abres la terminal, te posicionas en la carpeta de el proyecto y en la de test, posteriormente ejecutas npm run test.
 Las pruebas te indican que es lo que deben de retornar para ser positivas
 
-##Pruebas de estilo de codificación:
+## Pruebas de estilo de codificación:
 "htmlhint": "^0.10.1"
 "eslint": "^5.9.0"
-##Construido con:
+## Construido con:
 "chai": "^4.1.2",
 
-##Contribuyendo:
+## Contribuyendo:
 
 Se agradecerá toda contribución y comentarios a este proyecto, lo necesario para hacerlo es:
 -Tener una cuenta en github
@@ -55,11 +55,11 @@ Se agradecerá toda contribución y comentarios a este proyecto, lo necesario pa
 - git push origin master
 - (los datos que te pida git)
 
-##Versionando:
+## Versionando:
 
 El sistema de control de versiones en este caso es el de git que permite descargar el repositorio y las actualizaciones a traves de el comando git pull. Se recomienda numerar el versionado por si se quiere tener mayor orden sobre lo que se hace.
 
-##Autores:
+## Autores:
 
 1diegovelezg
 shirley-startary
@@ -68,11 +68,11 @@ Jonhks
 developerVilchez
 gaposx
 
-##Licencia
+## Licencia
 
 Codigo abierto :)
 
-##Agradecimientos
+## Agradecimientos
 
 A el equipo No2 (sin orden especifico):
 
