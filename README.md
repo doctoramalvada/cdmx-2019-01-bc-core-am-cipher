@@ -1,4 +1,7 @@
-Pide ayuda de forma segura
+#Pide ayuda de forma segura
+
+## Introcucción:
+
 El usuario principal y contexto de este producto, son mujeres de entre en 20 y 40 años de clase media en posible situación de violencia intrafamiliar.
 
 El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a estas inseguridadades en la incomunicación, brindando una alternativa para poder cifrar y descifrar texto , por ejemplo, para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
@@ -15,26 +18,77 @@ El diseño en un principio se penso como una pagina disfrazada de otra pagina la
 
 Finalmente se concluyo presentar una pagina sencilla con instrucciones ,sugerencia de uso y los recuadros para el uso del cifrado.
 
-Pre-requisitos
+##Comenzando
 
-para poder descargar y usar este repositorio se necesita tener:
-- un editor de texto.
-- una shell para interpretar líneas de comando 
-- git
+Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de visual code y el repositorio original se obtuvo de git hub. A continuacion las especificaciones tecnicas:
 
-Instalación:
+##Pre-requisitos
 
-Para poder usar el repositorio necesitas forquearlo y despues instalarlo con npm install
+Para poder descargar y usar este repositorio se necesita tener:
+-un editor de texto.
+-una shell para interpretar líneas de comando 
+-git
 
-Ejecutando las pruebas
+##Instalación:
+
+Para poder usar el repositorio necesitas forquearlo (dando click donde dice fork) y despues clonarlo en la consola
+
+##Ejecutando las pruebas
 
 para poder ejecutar las pruebas abres la terminal, te posicionas en la carpeta de el proyecto y en la de test, posteriormente ejecutas npm run test.
+Las pruebas te indican que es lo que deben de retornar para ser positivas
+
+##Pruebas de estilo de codificación:
+ "htmlhint": "^0.10.1"
+  "eslint": "^5.9.0"
+    
+##Construido con:
+ "chai": "^4.1.2",
 
 
+##Contribuyendo:
+
+Se agradecera toda contribucion a este proyecto, lo necesario para hacerlo es:
+-Tener una cuenta en github
+-Haber clonado el repositorio de manera local
+-Agragar nuestros cambios desde la consola con:
+- git add (enter)
+- git commit -m "aqui un comentario sobre tus cambios" (enter)
+- git push origin master
+- (los datos que te pida git)
+
+##Versionando:
+
+El sistema de control de versiones en este caso es el de git que permite descargar el repositorio y las actualizaciones a traves de el comando git pull. Se recomienta numerar el versionado por si se quiere tener mayor orden sobre lo que se hace.
+
+##Autores:
+
+1diegovelezg
+shirley-startary
+lupomontero
+Jonhks
+developerVilchez
+gaposx
+
+##Licencia
+
+Codigo abierto :)
+
+##Agradecimientos
+
+A el equipo No2 (sin orden especifico):
+
+Elsy (elsycardona)
+Gaby(gabycastro1403)
+Pau_ZA (Pau-za)
+Dianita(DianaG-M)
+Elenore (elenore29)
+Fabis Juárez (JessFabis)
+Lorena Guido (lore0223)
+Laura.Figlez (Couch)
 
 
-
-
+Sin ellas este modesto proyecto nunca hubiera sido posible. Gracias Totales.
 
 
 
