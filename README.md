@@ -1,26 +1,26 @@
-#Pide ayuda de forma segura
+# Pide ayuda de forma segura.
 
-## Introcucción:
+## Introducción:
 
 El usuario principal y contexto de este producto, son mujeres de entre en 20 y 40 años de clase media en posible situación de violencia intrafamiliar.
 
-El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a estas inseguridadades en la incomunicación, brindando una alternativa para poder cifrar y descifrar texto , por ejemplo, para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
+El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a estas inseguridades en la incomunicación, brindando una alternativa para poder cifrar y descifrar texto , por ejemplo, para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
 
-Para esto se hizo un estudio de casos atraves del siguiente google form:
+Para esto se hizo un estudio de casos a traves del siguiente google form:
 https://docs.google.com/forms/d/1KVA7ojFywc65y3IQv0WQloIaKHyqlN1jJFd726Vng50/edit
 
 Con los siguientes resultados:
 https://docs.google.com/forms/d/1KVA7ojFywc65y3IQv0WQloIaKHyqlN1jJFd726Vng50/edit#responses
 
-Gracias a este pequeño estudio se pudo vislumbrar que las necesidades de las usuarias eran sobre todo claridad y simplicidad en las instrucciones para el uso de la pagina; Por lo que se procedio a hacer los cambios pertinenetes para tener una pagina sencilla pero lo mas clara posible.
+Gracias a este pequeño estudio se pudo vislumbrar que las necesidades de las usuarias eran sobre todo claridad y simplicidad en las instrucciones para el uso de la pagina; Por lo que se procedió a hacer los cambios pertinentes para tener una pagina sencilla pero lo mas clara posible.
 
-El diseño en un principio se penso como una pagina disfrazada de otra pagina la que dirigiria a la pagina de cifrado, peo esta idea fue descartada por la necesidad de sencillez como primer requisito.
+El diseño en un principio se pensó como una pagina disfrazada de otra pagina la que dirigiría a la pagina de cifrado, peo esta idea fue descartada por la necesidad de sencillez como primer requisito.
 
 Finalmente se concluyo presentar una pagina sencilla con instrucciones ,sugerencia de uso y los recuadros para el uso del cifrado.
 
 ##Comenzando
 
-Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de visual code y el repositorio original se obtuvo de git hub. A continuacion las especificaciones tecnicas:
+Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de visual code y el repositorio original se obtuvo de git hub. A continuación las especificaciones técnicas:
 
 ##Pre-requisitos
 
@@ -39,16 +39,14 @@ para poder ejecutar las pruebas abres la terminal, te posicionas en la carpeta d
 Las pruebas te indican que es lo que deben de retornar para ser positivas
 
 ##Pruebas de estilo de codificación:
- "htmlhint": "^0.10.1"
-  "eslint": "^5.9.0"
-    
+"htmlhint": "^0.10.1"
+"eslint": "^5.9.0"
 ##Construido con:
- "chai": "^4.1.2",
-
+"chai": "^4.1.2",
 
 ##Contribuyendo:
 
-Se agradecera toda contribucion a este proyecto, lo necesario para hacerlo es:
+Se agradecerá toda contribución y comentarios a este proyecto, lo necesario para hacerlo es:
 -Tener una cuenta en github
 -Haber clonado el repositorio de manera local
 -Agragar nuestros cambios desde la consola con:
@@ -59,7 +57,7 @@ Se agradecera toda contribucion a este proyecto, lo necesario para hacerlo es:
 
 ##Versionando:
 
-El sistema de control de versiones en este caso es el de git que permite descargar el repositorio y las actualizaciones a traves de el comando git pull. Se recomienta numerar el versionado por si se quiere tener mayor orden sobre lo que se hace.
+El sistema de control de versiones en este caso es el de git que permite descargar el repositorio y las actualizaciones a traves de el comando git pull. Se recomienda numerar el versionado por si se quiere tener mayor orden sobre lo que se hace.
 
 ##Autores:
 
@@ -87,11 +85,7 @@ Fabis Juárez (JessFabis)
 Lorena Guido (lore0223)
 Laura.Figlez (Couch)
 
-
 Sin ellas este modesto proyecto nunca hubiera sido posible. Gracias Totales.
-
-
-
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
