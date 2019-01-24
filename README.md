@@ -20,7 +20,7 @@ Finalmente se concluyo presentar una pagina sencilla con instrucciones ,sugerenc
 
 ## Comenzando
 
-Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de visual code y el repositorio original se obtuvo de git hub. A continuación las especificaciones técnicas:
+Este proyecto se centra en 2 funciones una de cifrado y otra de descifrado de texto, se hizo usando el editor de texto de Visual Studio Code, con en lenguaje JavaScript, sobre el marcador de texto HTML, con el lenguaje de diseño grafico CSS; el repositorio original se obtuvo de git hub. A continuación las especificaciones técnicas:
 
 ## Pre-requisitos
 
@@ -39,10 +39,12 @@ para poder ejecutar las pruebas abres la terminal, te posicionas en la carpeta d
 Las pruebas te indican que es lo que deben de retornar para ser positivas
 
 ## Pruebas de estilo de codificación:
-"htmlhint": "^0.10.1"
-"eslint": "^5.9.0"
+
+- "htmlhint": "^0.10.1"
+- "eslint": "^5.9.0"
 ## Construido con:
-"chai": "^4.1.2",
+
+- "chai": "^4.1.2",
 
 ## Contribuyendo:
 
@@ -61,12 +63,12 @@ El sistema de control de versiones en este caso es el de git que permite descarg
 
 ## Autores:
 
-1diegovelezg
-shirley-startary
-lupomontero
-Jonhks
-developerVilchez
-gaposx
+- 1diegovelezg
+- shirley-startary
+- lupomontero
+- Jonhks
+- developerVilchez
+- gaposx
 
 ## Licencia
 
@@ -76,14 +78,14 @@ Codigo abierto :)
 
 A el equipo No2 (sin orden especifico):
 
-Elsy (elsycardona)
-Gaby(gabycastro1403)
-Pau_ZA (Pau-za)
-Dianita(DianaG-M)
-Elenore (elenore29)
-Fabis Juárez (JessFabis)
-Lorena Guido (lore0223)
-Laura.Figlez (Couch)
+- Elsy (elsycardona)
+- Gaby(gabycastro1403)
+- Pau_ZA (Pau-za)
+- Dianita(DianaG-M)
+- Elenore (elenore29)
+- Fabis Juárez (JessFabis)
+- Lorena Guido (lore0223)
+- Laura.Figlez (Couch)
 
 Sin ellas este modesto proyecto nunca hubiera sido posible. Gracias Totales.
 # Cifrado César
