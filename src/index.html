@@ -9,29 +9,26 @@
   <body>
     <div id="root">
        
-     <div id="encabezado">Pide ayuda de forma segura</></div></div>
+     <div id="encabezado">Pide ayuda de forma segura</div>
      <div id= "subtitle"> Si necesitas pedir ayuda pero temes que te descubran, aqui puedes cifrar y descifrar texto para compartirlo con alguien de confianza </div>
      <div id= "subtitletwo">Solo ingresa el texto en el recuadro y selecciona los numeros a desplazar el cifrado </div>
-
+  
        <div id="primercuadro">
       <textarea id="texto"></textarea>
-      <p> <input type="number" min="0" max="34" id="numero">
-      <p> <button class="boton" type="button" name="boton" id="boton" >cifrar</button></p>
-         <div id="resultado"></div></div>
+      <p> <input type="number" min="0" max="34" id="numero"></p>
+      <p> <button class="boton" type="button" name="boton" id="boton" >cifrar</button></p></div>
+         <div id="resultado"></div>
     <div id="segundocuadro">
       <textarea id="textode"></textarea>
       <p>
-        <button class="boton" type="button" name="botonde" id="botonde"  >descifrar</button> </p>
+        <button class="boton" type="button" name="botonde" id="botonde"  >descifrar</button> </p></div>
       <div id="descifrado"></div>
-      </div>
+  
         <p>
         <div id="tercercuadro">
-      <button class="boton" type="button" name="recargar" id="reload" onclick="document.location.reload();">
-          recargar</div>
-
-
-    </div>
+      <button class="boton" type="button" name="recargar" id="reload" onclick="document.location.reload()">recargar</button></div></p>
     <script src="cipher.js"></script>
     <script src="index.js"></script>
+  </div>
   </body>
 </html>

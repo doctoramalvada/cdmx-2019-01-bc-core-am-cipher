@@ -15,7 +15,7 @@ window.cipher = {
      
 let obtenido=String.fromCharCode(conversion);/*devuelve una cadena del unicode */
      
-     textNuevo += obtenido;
+     textNuevo += obtenido;/*aclarar el mas */
     }
     /*el charcodeat me da el valor numerico  de la letra ingresadapongo la funcion para que convierta las letras en ascci */
  return textNuevo

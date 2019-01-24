@@ -1,6 +1,41 @@
-Para este producto, el usuario principal y contexto  son mujeres en posible situación de violencia intrafamiliar.
+Pide ayuda de forma segura
+El usuario principal y contexto de este producto, son mujeres de entre en 20 y 40 años de clase media en posible situación de violencia intrafamiliar.
 
-El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a esta inseguridad en la incomunicación; Brindando una alternativa para poder cifrar y descifrar texto , por ejemplo para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
+El contexto de este producto se encuentra en la posibilidad de que en un ambiente de abuso y control por parte de la pareja o familiar, la usuaria puede llegar a no sentir confianza ante la necesidad de comunicar su situación o el pedir ayuda; Por esta razón se a pensado en esta pagina, que pretende ser una solución a estas inseguridadades en la incomunicación, brindando una alternativa para poder cifrar y descifrar texto , por ejemplo, para enviar mensajes y en el caso de que un tercero revise estos no tenga acceso inmediato al mensaje.
+
+Para esto se hizo un estudio de casos atraves del siguiente google form:
+https://docs.google.com/forms/d/1KVA7ojFywc65y3IQv0WQloIaKHyqlN1jJFd726Vng50/edit
+
+Con los siguientes resultados:
+https://docs.google.com/forms/d/1KVA7ojFywc65y3IQv0WQloIaKHyqlN1jJFd726Vng50/edit#responses
+
+Gracias a este pequeño estudio se pudo vislumbrar que las necesidades de las usuarias eran sobre todo claridad y simplicidad en las instrucciones para el uso de la pagina; Por lo que se procedio a hacer los cambios pertinenetes para tener una pagina sencilla pero lo mas clara posible.
+
+El diseño en un principio se penso como una pagina disfrazada de otra pagina la que dirigiria a la pagina de cifrado, peo esta idea fue descartada por la necesidad de sencillez como primer requisito.
+
+Finalmente se concluyo presentar una pagina sencilla con instrucciones ,sugerencia de uso y los recuadros para el uso del cifrado.
+
+Pre-requisitos
+
+para poder descargar y usar este repositorio se necesita tener:
+- un editor de texto.
+- una shell para interpretar líneas de comando 
+- git
+
+Instalación:
+
+Para poder usar el repositorio necesitas forquearlo y despues instalarlo con npm install
+
+Ejecutando las pruebas
+
+para poder ejecutar las pruebas abres la terminal, te posicionas en la carpeta de el proyecto y en la de test, posteriormente ejecutas npm run test.
+
+
+
+
+
+
+
 
 
 # Cifrado César
